@@ -6,17 +6,17 @@ Group ini didirikan sebagai media mahasiswa/mahasiswi untuk belajar lebih dalam 
 
 ## Goals
 ### Learning
-Belajar dengan menerapkan, bebas tuntutan, karena kita semua sebaya.
+Bersama mengembangkan perangkat lunak terbaru dan berbagi informasi atau pengalaman dalam memecahkan suatu permasalahan.
 
-### Connection
-Membangun koneksi dengan mahasiswa/mahasiswi lain dalam menyelesaikan suatu permasalahan.
+### Connections
+Berkembang bersama dalam tim dan membangun koneksi antar anggota.
 
 ### Producing
-Mampu menghasilkan suatu produk yang layak pakai dengan kualitas terbaik.
+Mampu menghasilkan suatu karya sesuai dengan kemampuan yang dikuasai dan memiliki kualitas unggul.
 
 
 ## Contributions
-Untuk saat ini group masih bersifat closed group.
+Dipersilakan untuk teman-teman dalam berkontribusi pada setiap repository yang ada di organisasi ini :)
 
 
 ## In charge
