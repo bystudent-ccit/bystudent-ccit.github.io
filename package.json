@@ -10,7 +10,7 @@
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "yarn format && gatsby build && gh-pages -d public -d master"
+    "deploy": "yarn format && gatsby build && gh-pages -d public -b master"
   },
   "dependencies": {
     "gatsby": "^2.24.50",
