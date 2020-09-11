@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Kennan Fattah -- Developer -- @KennFatt
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Github Page, UIkit
