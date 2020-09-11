@@ -1,0 +1,15 @@
+// Import external stylesheets, fonts, etc.
+@import "imports";
+
+// HOWTO: https://getuikit.com/docs/sass
+$global-font-family: "Ubuntu";
+
+.my-section-title, .my-card-title {
+    font-weight: 500;
+}
+
+// UIkit
+// We should import three of this (mixins, variables, and uikit itself).
+@import "../../node_modules/uikit/src/scss/variables-theme.scss";
+@import "../../node_modules/uikit/src/scss/mixins-theme.scss";
+@import "../../node_modules/uikit/src/scss/uikit-theme.scss";
